@@ -1,5 +1,7 @@
 # school-frontend
 
+# Please Change the base url before running the app from Create.vue page
+
 ## Project setup
 ```
 npm install
